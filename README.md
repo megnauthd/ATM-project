@@ -63,9 +63,3 @@ The user selects an option by entering the corresponding number, and the system 
 
 - The user can exit the ATM system by selecting the `Exit` option from the menu.
 
-## Running the ATM System
-
-To run the ATM system, simply execute the Python script:
-
-```bash
-python atm_system.py
