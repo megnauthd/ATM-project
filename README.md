@@ -1,6 +1,3 @@
-# ATM-project
-Link to project https://replit.com/@megnauthdhanra1/ATM-project
-
 # ATM System in Python
 
 ## Project Overview
